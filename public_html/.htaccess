@@ -1,0 +1,7 @@
+
+# HTID:22388666: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:22388666:
+php_value max_execution_time 300
+php_value upload_max_filesize 128M
+php_value post_max_size 128M
