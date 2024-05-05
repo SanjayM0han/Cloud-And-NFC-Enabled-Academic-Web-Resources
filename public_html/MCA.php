@@ -77,5 +77,5 @@ if ($c->connect_error) {
 </html>
 
 <?php
-$c->close(); // Close the database connection
+$c->close(); 
 ?>
